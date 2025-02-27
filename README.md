@@ -19,7 +19,7 @@ This is a web-based application for managing employees' salaries, job records, a
 ### 1. Clone the Repository
 ```sh
   git clone https://github.com/midlaj-mohd/Small-Business-Tracker.git
-  cd yourproject
+  cd Small-Business-Tracker
 ```
 
 ### 2. Configure Firebase
